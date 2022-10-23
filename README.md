@@ -29,6 +29,9 @@
   <a href="https://www.lua.org">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" width="52" alt="lua logo" title="LUAU! Wait..."  />
   </a>
+    <a href="https://haxe.org">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Haxe_logo.svg" height="40" width="52" alt="lua logo" title="I know this was the language used to make Friday Night Funkin', you don't have to remind me every single time..."  />
+  </a>
 </div>
 
 ###
