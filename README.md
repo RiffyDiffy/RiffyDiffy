@@ -22,7 +22,7 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo" title="Down here in the deep blue s- Argh, wrong joke..." />
   <a href="https://www.rust-lang.org">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" width="52" alt="rust logo" title="You think Mr. Krabs would favor this language, if he were a programmer."  />
   </a>
