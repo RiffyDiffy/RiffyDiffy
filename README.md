@@ -44,7 +44,7 @@
   <a href="https://www.libsdl.org">
     <img height="100" src="https://upload.wikimedia.org/wikipedia/commons/1/16/Simple_DirectMedia_Layer,_Logo.svg" title="Insert World of Goo noises here."  />
   </a>
-  <img height="100" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C++_Logo.svg" title"THIS is my grade?! C++?!" />
+  <img height="100" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C++_Logo.svg" title="THIS is my grade?! C++?!" />
 </div>
 
 ###
