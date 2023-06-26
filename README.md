@@ -55,6 +55,6 @@
   
 <div align="center">
   <a href="https://forthebadge.com">
-    <img height="30" src="https://user-images.githubusercontent.com/81842790/208213473-f046a54c-18e0-41e7-92a4-9d3e144c0622.svg" title="Café au lait!" />
+    <img height="30" src="https://user-images.githubusercontent.com/81842790/208213473-f046a54c-18e0-41e7-92a4-9d3e144c0622.svg" title="Café au lait! (CONTENT ADVISORY: Strong language in one of the badges.)" />
   </a>
 </div>
