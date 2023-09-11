@@ -30,6 +30,10 @@
   <a>
     <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C++_Logo.svg" title="THIS is my grade?! C++?!" />
   </a>
+  <a>
+    <a href="https://java.com">
+    <img height="50" src="[https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C++_Logo.svg](https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg)" title="...I'm not even going to add a joke for this one." />
+  </a>
 </div>
 
 
