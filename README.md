@@ -13,12 +13,12 @@
   <a href="https://www.ruby-lang.org/en/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" width="52" alt="ruby logo" title="Ruby! Press the red button! Not the green button! Don't they teach you this in gem school?"
   </a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo" title="Down here in the deep blue s- Argh, wrong joke..." />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo" title="Down here in the deep blue s- Argh, wrong joke..." />
   <a href="https://www.rust-lang.org">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" width="52" alt="rust logo" title="You think Mr. Krabs would favor this language, if he were a programmer."  />
+    <img src="https://raw.githubusercontent.com/rust-lang/rust-artwork/master/logo/rust-logo-blk.svg" height="50" width="50" alt="rust logo" title="You think Mr. Krabs would favor this language, if he were a programmer."  />
   </a>
   <a href="https://www.lua.org">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" width="52" alt="lua logo" title="LUAU! Wait..."  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" width="59" alt="lua logo" title="LUAU! Wait..."  />
   </a>
     <a href="https://haxe.org">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Haxe_logo.svg" height="40" width="52" alt="haxe logo" title="I know this was the language used to make Friday Night Funkin', you don't have to remind me every single time..."  />
