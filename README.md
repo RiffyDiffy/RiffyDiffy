@@ -15,7 +15,7 @@
   </a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo" title="Down here in the deep blue s- Argh, wrong joke..." />
   <a href="https://www.rust-lang.org">
-    <img src="https://raw.githubusercontent.com/rust-lang/rust-artwork/master/logo/rust-logo-blk.svg" height="50" width="50" alt="rust logo" title="You think Mr. Krabs would favor this language, if he were a programmer."  />
+    <img src="https://raw.githubusercontent.com/rust-lang/rust-artwork/master/logo/rust-logo-blk.svg" height="50" width="50" alt="rust logo" title="So many Rust haters... Why can't we all live in peace?"  />
   </a>
   <a href="https://www.lua.org">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" width="59" alt="lua logo" title="LUAU! Wait..."  />
@@ -25,14 +25,14 @@
   </a>
   </a>
     <a href="https://nim-lang.org">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Nim_logo.svg" height="40" width="52" alt="nim logo" title="Let's not go through with the king jokes, okay?"  />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Nim_logo.svg" height="40" width="52" alt="nim logo" title="I've got no hover jokes for this one."  />
   </a>
   <a>
     <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C++_Logo.svg" title="THIS is my grade?! C++?!" />
   </a>
   <a>
     <a href="https://java.com">
-    <img height="70" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="...I'm not even going to add a joke for this one." />
+    <img height="70" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="Sip." />
   </a>
 </div>
 
