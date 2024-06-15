@@ -37,6 +37,9 @@
   <a href="https://kotlinlang.org">
     <img height="40" src="https://github.com/RiffyDiffy/RiffyDiffy/assets/81842790/a70ce15f-adf9-406f-bea0-990612d998ca" title="I love both Java and Kotlin, just so you'd know." />
   </a>
+  <a href="https://ziglang.org">
+    <img height="40" src="https://raw.githubusercontent.com/ziglang/logo/master/zig-mark.svg" title="All that's left now is a shark!" />
+  </a>
 </div>
 
 
