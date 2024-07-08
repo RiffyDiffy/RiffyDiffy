@@ -40,6 +40,9 @@
   <a href="https://ziglang.org">
     <img height="40" src="https://raw.githubusercontent.com/ziglang/logo/master/zig-mark.svg" title="All that's left now is a shark!" />
   </a>
+  <a href="https://wiki.xxiivv.com/site/uxntal.html">
+    <img height="40" src="https://karolbelina.gallerycdn.vsassets.io/extensions/karolbelina/uxntal/0.2.0/1668817965260/Microsoft.VisualStudio.Services.Icons.Default" title="Nothing makes me angrier than open contempt and gatekeeping to programming languages." />
+  </a>
 </div>
 
 
