@@ -68,7 +68,7 @@
 <h2 align="center">Technologies used (WORK IN PROGRESS):</h2>
 <div align="center">
   <a href="https://svelte.dev/">
-    <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" title="" />
+    <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" title="'It's the only JavaScript framework that's actually enjoyable to use.' - Fireship" />
   </a>
 </div>
 
