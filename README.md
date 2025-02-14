@@ -1,4 +1,4 @@
-<p align="center">Your run-on-the-mill teen who is interested in technology, art, and other stuff.</p>
+<p align="center">Your run-on-the-mill user who is interested in technology, art, and other stuff.</p>
 
 ###
 
@@ -38,13 +38,10 @@
     <img height="40" src="https://raw.githubusercontent.com/ziglang/logo/master/zig-mark.svg" title="All that's left now is a shark!" />
   </a>
   <a href="https://wiki.xxiivv.com/site/uxntal.html">
-    <img height="40" src="https://karolbelina.gallerycdn.vsassets.io/extensions/karolbelina/uxntal/0.2.0/1668817965260/Microsoft.VisualStudio.Services.Icons.Default" title="Assembly language but for the modern era." />
+    <img height="40" src="https://karolbelina.gallerycdn.vsassets.io/extensions/karolbelina/uxntal/0.2.0/1668817965260/Microsoft.VisualStudio.Services.Icons.Default" title="I've got no hover jokes for this one." />
   </a>
   <a href="https://elixir-lang.org">
     <img height="40" src="https://upload.wikimedia.org/wikipedia/en/a/a4/Elixir_programming_language_logo.png" title="Glug, glug." />
-  </a>
-  <a href="https://www.erlang.org">
-    <img height="40" src="https://www.erlang.org/assets/img/erlang-logo.svg" title="ROK Runner, meep meep!" />
   </a>
   <a href="https://dlang.org">
     <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/2/24/D_Programming_Language_logo.svg" title="I've got no hover jokes for this one." />
