@@ -64,6 +64,12 @@
   <a href="https://processing.org">
     <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Processing_2021_logo.svg" title="Coding is an art form, and this emphasizes it." />
   </a>
+  <a href="https://getbootstrap.com">
+    <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" title="I've got no over jokes for this one." />
+  </a>
+  <a href="https://bun.sh">
+    <img height="40" src="https://upload.wikimedia.org/wikipedia/en/e/ec/Bun_JS_logo.png" title="Bun." />
+  </a>
 </div>
 
 
