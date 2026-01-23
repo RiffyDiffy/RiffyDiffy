@@ -59,13 +59,13 @@
 <h2 align="center">Technologies used (WORK IN PROGRESS):</h2>
 <div align="center">
   <a href="https://svelte.dev/">
-    <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" title="'It's the only JavaScript framework that's actually enjoyable to use.' - Fireship" />
+    <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" title="I've got no hover jokes for this one." />
   </a>
   <a href="https://processing.org">
     <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Processing_2021_logo.svg" title="Coding is an art form, and this emphasizes it." />
   </a>
   <a href="https://getbootstrap.com">
-    <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" title="I've got no over jokes for this one." />
+    <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" title="I've got no hover jokes for this one." />
   </a>
   <a href="https://bun.sh">
     <img height="40" src="https://upload.wikimedia.org/wikipedia/en/e/ec/Bun_JS_logo.png" title="Bun." />
