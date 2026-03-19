@@ -17,7 +17,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo" title="The language that makes the world go round and round." />
   </a>
   <a href="https://www.rust-lang.org">
-    <img src="https://raw.githubusercontent.com/rust-lang/rust-artwork/master/logo/rust-logo-blk.svg" height="50" width="50" alt="rust logo" title="Snip snip."  />
+    <img src="https://rust-lang.org/static/images/rust-logo-blk.svg" height="50" width="50" alt="rust logo" title="Snip snip."  />
   </a>
   <a href="https://www.lua.org">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" width="59" alt="lua logo" title="LUAU! Wait..."  />
