@@ -23,7 +23,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" width="59" alt="lua logo" title="LUAU! Wait..."  />
   </a>
   <a href="https://nim-lang.org">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Nim_logo.svg" height="40" width="52" alt="nim logo" title="I've got no hover jokes for this one."  />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Nim_logo.svg" height="40" width="52" alt="nim logo" title="I, your king, hereby declare..."  />
   </a>
   <a href="https://isocpp.org">
     <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C++_Logo.svg" title="It'll take some getting used to learning the modern way." />
@@ -47,7 +47,7 @@
     <img height="40" src="https://go.dev/images/go-logo-white.svg" title="I've got no hover jokes for this one." />
   </a>
   <a href="https://ecma-international.org/publications-and-standards/standards/ecma-262/">
-    <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" title="Powers the web for over... 29 years?! Wow." />
+    <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" title="Powers the web for over... a few decades!" />
   </a>
   <a href="https://ocaml.org">
     <img height="40" src="https://ocaml.org/_/NjljMjc5MjE5ZjE3ZjNjNjkzMjZiYTQ3MWU2NzZjYzI/policies/logos/OCaml_Sticker.svg" title="I've got no hover jokes for this one." />
