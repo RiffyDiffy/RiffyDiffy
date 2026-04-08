@@ -23,7 +23,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" width="59" alt="lua logo" title="LUAU! Wait..."  />
   </a>
   <a href="https://nim-lang.org">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Nim_logo.svg" height="40" width="52" alt="nim logo" title="I, your king, hereby declare..."  />
+    <img src="https://nim-lang.org/assets/img/logo.svg" height="40" width="52" alt="nim logo" title="I, your king, hereby declare..."  />
   </a>
   <a href="https://isocpp.org">
     <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C++_Logo.svg" title="It'll take some getting used to learning the modern way." />
