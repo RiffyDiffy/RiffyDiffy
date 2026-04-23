@@ -8,22 +8,22 @@
 
 <div align="center">
   <a href="https://www.python.org">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo" title="Sssssssss...."  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" title="Sssssssss...."  />
   </a>
   <a href="https://www.ruby-lang.org/en/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" width="52" alt="ruby logo" title="Shiny!"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="ruby logo" title="Shiny!"/>
   </a>
   <a href="https://www.iso.org/standard/74528.html">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo" title="The language that makes the world go round and round." />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" title="The language that makes the world go round and round." />
   </a>
   <a href="https://www.rust-lang.org">
-    <img src="https://rust-lang.org/static/images/rust-logo-blk.svg" height="50" width="50" alt="rust logo" title="Snip snip."  />
+    <img src="https://rust-lang.org/static/images/rust-logo-blk.svg" height="50" alt="rust logo" title="Snip snip."  />
   </a>
   <a href="https://www.lua.org">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" width="59" alt="lua logo" title="LUAU! Wait..."  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo" title="LUAU! Wait..."  />
   </a>
   <a href="https://nim-lang.org">
-    <img src="https://nim-lang.org/assets/img/logo.svg" height="40" width="52" alt="nim logo" title="I, your king, hereby declare..."  />
+    <img src="https://nim-lang.org/assets/img/logo.svg" height="40" title="I, your king, hereby declare..."  />
   </a>
   <a href="https://isocpp.org">
     <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C++_Logo.svg" title="It'll take some getting used to learning the modern way." />
