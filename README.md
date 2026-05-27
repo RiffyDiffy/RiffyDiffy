@@ -68,7 +68,7 @@
     <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" title="I've got no hover jokes for this one." />
   </a>
   <a href="https://bun.sh">
-    <img height="40" src="https://upload.wikimedia.org/wikipedia/en/e/ec/Bun_JS_logo.png" title="Bun." />
+    <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Bun_js_logo.png" title="Bun." />
   </a>
 </div>
 
