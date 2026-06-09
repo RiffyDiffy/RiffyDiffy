@@ -1,4 +1,4 @@
-<p align="center">Your run-on-the-mill user who is interested in technology, art, and other stuff.</p>
+<p align="center">User who is interested in technology, art, and other stuff.</p>
 
 ###
 
