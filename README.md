@@ -20,7 +20,7 @@
     <img src="https://rust-lang.org/static/images/rust-logo-blk.svg" height="50" alt="rust logo" title="Snip snip."  />
   </a>
   <a href="https://www.lua.org">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo" title="LUAU! Wait..."  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo" title="I like the tint of blue!"  />
   </a>
   <a href="https://nim-lang.org">
     <img src="https://nim-lang.org/assets/img/logo.svg" height="40" title="I, your king, hereby declare..."  />
@@ -32,13 +32,13 @@
     <img height="70" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="Sip." />
   </a>
   <a href="https://kotlinlang.org">
-    <img height="40" src="https://github.com/RiffyDiffy/RiffyDiffy/assets/81842790/a70ce15f-adf9-406f-bea0-990612d998ca" title="I love both Java and Kotlin, just so you'd know." />
+    <img height="40" src="https://github.com/RiffyDiffy/RiffyDiffy/assets/81842790/a70ce15f-adf9-406f-bea0-990612d998ca" title="I've got no hover jokes for this one." />
   </a>
   <a href="https://ziglang.org">
-    <img height="40" src="https://raw.githubusercontent.com/ziglang/logo/master/zig-mark.svg" title="All that's left now is a shark!" />
+    <img height="40" src="https://raw.githubusercontent.com/ziglang/logo/master/zig-mark.svg" title="Zigga zigga zigga zigga zigga zigga zigga..." />
   </a>
   <a href="https://wiki.xxiivv.com/site/uxntal.html">
-    <img height="40" src="https://karolbelina.gallerycdn.vsassets.io/extensions/karolbelina/uxntal/0.2.0/1668817965260/Microsoft.VisualStudio.Services.Icons.Default" title="I've got no hover jokes for this one." />
+    <img height="40" src="https://karolbelina.gallerycdn.vsassets.io/extensions/karolbelina/uxntal/0.2.0/1668817965260/Microsoft.VisualStudio.Services.Icons.Default" title="An assembly language made by two... rabbits?" />
   </a>
   <a href="https://dlang.org">
     <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/2/24/D_Programming_Language_logo.svg" title="I've got no hover jokes for this one." />
@@ -62,13 +62,13 @@
     <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" title="I've got no hover jokes for this one." />
   </a>
   <a href="https://processing.org">
-    <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Processing_2021_logo.svg" title="Coding is an art form, and this emphasizes it." />
+    <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Processing_2021_logo.svg" title="Coding is almost like an art form, and this emphasizes it." />
   </a>
   <a href="https://getbootstrap.com">
     <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" title="What's with the music videos in major releases blog posts?" />
   </a>
   <a href="https://bun.sh">
-    <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Bun_js_logo.png" title="Bun." />
+    <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Bun_js_logo.png" title=".nuB" />
   </a>
 </div>
 
