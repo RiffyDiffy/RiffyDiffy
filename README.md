@@ -68,7 +68,10 @@
     <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" title="What's with the music videos in major releases blog posts?" />
   </a>
   <a href="https://bun.sh">
-    <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Bun_js_logo.png" title=".nuB" />
+    <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Bun_js_logo.png" title=".nuB (No longer using it)" />
+  </a>
+  <a href="https://deno.land">
+    <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Deno_Logo_2024.svg" title="Due to Bun being entirely rewritten in Rust by an AI model, I've moved to Deno." />
   </a>
 </div>
 
